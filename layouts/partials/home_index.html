@@ -1,0 +1,85 @@
+{{/* lab 介绍 */}}
+{{ $heroBlock := .Params.heroBlock }}
+<section id="section-hero" class="home-section wg-hero">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 hero-title">{{ $heroBlock.content.title | markdownify }}</div>
+    </div>
+    <div class="row">
+      <div class="col-12 hero-desc-txt">{{ $heroBlock.content.text | markdownify }}</div>
+    </div>
+  </div>
+</section>
+
+
+{{/*
+jQuery轮播效果（Carousell）
+注意 prev nextl 两个button的href id 和 setction id要一致
+https://blog.csdn.net/chenmo2001/article/details/117674446
+*/}}
+{{ $slider_hash_id := "hero_sliders" }}
+{{ $slider_args := dict "wcPage" $ "wcBlock" .Params.heroSlideBlock "wcIdentifier" $slider_hash_id }}
+<section id="section-hero" class="home-section wg-hero">
+  <div class="container">
+    <div class="row">
+      <div class="col-12  hero-media carousel slide " data-ride="carousel" id="{{ $slider_hash_id }}">
+        {{ partial "blocks/slider.html" $slider_args }}
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+
+{{/*
+Recent News
+*/}}
+{{ $recent_news := site.Data.news | first 5 }}
+<section id="section-recent-news" class="home-section ">
+  <div class="container">
+    <div class="section-c-title">Recent News</div>
+    <div class="home-news-list-wrap">
+
+        {{ range  $index, $item := $recent_news}}
+          {{ partial "views/news_item.html" (dict "item" $item) }}
+        {{ end }}
+
+    </div>
+  </div>
+</section>
+
+
+
+{{/*
+Recent works
+*/}}
+
+<section id="section-recent-works" class="home-section ">
+  <div class="container">
+    <div class="section-c-title">Recent Works</div>
+    <div class="grid grid-cols-1 gap-x-12 gap-y-16  lg:grid-cols-3">
+      {{ range .Params.recentWorksBlock }}
+
+      {{- $image := resources.Get (path.Join "media" .img) -}}
+
+      <div class="">
+
+        <div class="card">
+          <a href="{{ .link }}"><img src="{{ $image.RelPermalink }}" alt="{{ .title }}"></a>
+          <div class="card-body">
+            <!-- <h5 class="card-title">title</h5> -->
+            <p class="card-text">{{ .desc }}</p>
+            <!-- <a href="#" class="btn btn-primary">Go somewhere</a> -->
+          </div>
+        </div>
+
+      </div>
+      {{ end }}
+
+    </div>
+  </div>
+</section>
+
+
+ 

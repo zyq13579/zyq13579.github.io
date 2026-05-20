@@ -1,0 +1,19 @@
+{{ $item := .item }} {{ $index := .index }}
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i> {{add 1 $index}}.
+  <span class="article-metadata li-cite-author">
+    {{ $item.authors_text | markdownify | safeHTML}} ({{ $item.year |
+    markdownify | safeHTML}}).
+  </span>
+
+  {{with $item.url_external}}
+  <a href="." target="_blank">
+    {{end}}
+    <span class="pub-title"> {{ $item.title | markdownify | safeHTML}} </span>
+    {{with $item.url_external}}
+  </a>
+  {{end}}.
+
+  <em> {{ $item.pub_info | markdownify | safeHTML}} </em>.
+</div>

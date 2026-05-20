@@ -1,0 +1,286 @@
+- authors_text: "Xuru Yang, Yunze Hu, Han Gao, Kang Ding, Pingping Zhu, Ying Sun, Chang Liu"
+  title: "Risk-Aware Non-Myopic Motion Planner for Large-Scale Robotic Swarm Using CVaR Constraints"
+  pub_info: "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
+  year: 2024
+  pub_type: "Conference paper"
+  url_external: "https://arxiv.org/abs/2402.16690"
+
+- authors_text: "Yunze Hu, Xuru Yang, Kangjie Zhou, Qinghang Liu, Kang Ding, Han Gao, Pingping Zhu, Chang Liu"
+  title: "SwarmPRM: Probabilistic Roadmap Motion Planning for Swarm Robotic Systems"
+  pub_info: "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
+  year: 2024
+  pub_type: "Conference paper"
+  url_external: "https://arxiv.org/abs/2402.16699"
+
+- authors_text: "Pengying Wu, Yao Mu, Kangjie Zhou, Ji Ma, Junting Chen, Chang Liu"
+  title: "CAMON: Cooperative Agents for Multi-Object Navigation with LLM-based Conversations"
+  pub_info: "2024 Workshop at Robotics: Science and Systems (RSS)"
+  year: 2024
+  pub_type: "Conference paper"
+  url_external: ""
+
+- authors_text: "Ji Ma, Hongming Dai, Yao Mu, Pengying Wu, Hao Wang, Xiaowei Chi, Yang Fei, Shanghang Zhang, Chang Liu"
+  title: "DOZE: A Dataset for Open-Vocabulary Zero-Shot Object Navigation in Dynamic Environments"
+  pub_info: "2024 IEEE Robotics and Automation Letters (RAL)"
+  year: 2024
+  pub_type: "Journal article"
+  url_external: "https://arxiv.org/abs/2402.19007"
+
+- authors_text: "Pengying Wu, Yao Mu, Bingxian Wu, Yi Hou, Ji Ma, Shanghang Zhang, Chang Liu"
+  title: "VoroNav: Voronoi-based Zero-shot Object Navigation with Large Language Model"
+  pub_info: "2024 International Conference on Machine Learning (ICML)"
+  year: 2024
+  pub_type: "Conference paper"
+  url_external: "https://openreview.net/forum?id=Va7mhTVy5s"
+
+- authors_text: "Kangjie Zhou, Pengying Wu, Yao Su, Han Gao, Ji Ma, Hangxin Liu, Chang Liu"
+  title: "ASPIRe: An Informative Trajectory Planner with Mutual Information Approximation for Target Search and Tracking"
+  pub_info: "2024 IEEE International Conference on Robotics and Automation (ICRA)"
+  year: 2024
+  pub_type: "Conference paper"
+  url_external: "https://arxiv.org/abs/2403.01674"
+
+- authors_text: "Han Gao, Pengying Wu, Yao Su, Kangjie Zhou, Ji Ma, Hangxin Liu, Chang Liu"
+  title: "Probabilistic visibility-aware trajectory planning for target tracking in cluttered environments"
+  pub_info: "2024 American Control Conference (ACC)"
+  year: 2024
+  pub_type: "Conference paper"
+  url_external: "https://arxiv.org/abs/2306.06363"
+
+- authors_text: "Yuxuan Jiang, Guojian Zhan, Zhiqian Lan, Chang Liu, Bo Cheng, Shengbo Eben Li"
+  title: "A reinforcement learning benchmark for autonomous driving in general urban scenarios"
+  pub_info: "IEEE Transactions on Intelligent Transportation Systems"
+  year: 2023
+  pub_type: "Conference paper"
+  url_external: "https://ieeexplore.ieee.org/abstract/document/10324473/"
+
+- authors_text: "Yunze Hu, Jiaao Chen, Kangjie Zhou, Han Gao, Yutong Li, Chang Liu"
+  title: "Informative path planning of autonomous vehicle for parking occupancy estimation"
+  pub_info: "2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC)"
+  year: 2023
+  pub_type: "Conference paper"
+  url_external: "https://ieeexplore.ieee.org/document/10422020"
+
+- authors_text: "Wei Wu, Chang Liu, Wenhan Cao, Chao Chen, Hongbo Li, Shengbo Eben Li"
+  title: "Multi-sensor Calibration System for Mobile Robots"
+  pub_info: "2023 7th CAA International Conference on Vehicular Control and Intelligence (CVCI)"
+  year: 2023
+  pub_type: "Conference paper"
+  url_external: "https://ieeexplore.ieee.org/abstract/document/10397235/"
+
+- authors_text: "Xuru Yang, Han Gao, Pingping Zhu, Chang Liu"
+  title: "Risk-aware motion planning for very-large-scale robotics systems using conditional value-at-risk"
+  pub_info: "2023 International Conference on Intelligent Robotics and Applications (ICIRA)"
+  year: 2023
+  pub_type: "Conference paper"
+  url_external: "https://link.springer.com/chapter/10.1007/978-981-99-6498-7_44"
+
+- authors_text: "Yao Mu, Zhiqian Lan, Chen Chen, Chang Liu, Ping Luo, Shengbo Eben Li"
+  title: "Neural MPC-Based Decision-Making Framework for Autonomous Driving in Multi-Lane Roundabout"
+  pub_info: "2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC)"
+  year: 2023
+  pub_type: "Conference paper"
+  url_external: "https://ieeexplore.ieee.org/abstract/document/10422286/"
+
+- authors_text: "Wenhan Cao, Chang Liu, Zhiqian Lan, Yingxi Pia, Shengbo Eben Li"
+  title: "Generalized moving horizon estimation for nonlinear systems with robustness to measurement outliers"
+  pub_info: "2023 American Control Conference (ACC)"
+  year: 2023
+  pub_type: "Conference paper"
+  url_external: "https://ieeexplore.ieee.org/abstract/document/10156391/"
+
+- authors_text: "Wenhan Cao, Jingliang Duan, Shengbo Eben Li, Chen Chen, Chang Liu, Yu Wang"
+  title: "Primal-dual estimator learning method with feasibility and near-optimality guarantees"
+  pub_info: "2022 IEEE 61st Conference on Decision and Control (CDC)"
+  year: 2022
+  pub_type: "Conference paper"
+  url_external: "https://ieeexplore.ieee.org/abstract/document/9992814/"
+
+- authors_text: "Qingze Huo, Yifeng Shi, Chang Liu, Vahid Tarokh, Silvia Ferrari"
+  title: "Online Action Change Detection for Automatic Vision-based Ground Control of Aircraft"
+  pub_info: "AIAA SCITECH Forum"
+  year: 2022
+  pub_type: "Conference paper"
+  url_external: ""
+
+- authors_text: "Pingping Zhu, Chang Liu, Silvia Ferrari"
+  title: "Adaptive online distributed optimal control of very-large-scale robotic systems"
+  pub_info: "IEEE Transactions on Control of Network Systems"
+  year: 2021
+  pub_type: "Journal article"
+  url_external: ""
+
+- authors_text: "Chang Liu, Zhihao Liao, Silvia Ferrari"
+  title: "Rumor-robust Decentralized Gaussian Process Learning, Fusion, and Planning for Modeling Multiple Moving Targets"
+  pub_info: "2020 59th IEEE Conference on Decision and Control (CDC)"
+  year: 2020
+  pub_type: "Conference paper"
+  url_external: ""
+
+- authors_text: "Yao Mu, Baiyu Peng, Ziqing Gu, Shengbo Eben Li, Chang Liu, Bingbing Nie, Jianfeng Zheng, Bo Zhang"
+  title: "Mixed reinforcement learning for efficient policy optimization in stochastic environments"
+  pub_info: "2020 20th International Conference on Control, Automation and Systems (ICCAS)"
+  year: 2020
+  pub_type: "Conference paper"
+  url_external: ""
+
+- authors_text: "Chang Liu, Silvia Ferrari"
+  title: "Vision-guided planning and control for autonomous taxiing via convolutional neural networks"
+  pub_info: "AIAA Scitech 2019 Forum"
+  year: 2019
+  pub_type: "Conference paper"
+  url_external: ""
+
+- authors_text: "Chang Liu, Yucheng Chen, Jake Gemerek, Hengye Yang, Silvia Ferrari"
+  title: "Learning recursive bayesian nonparametric modeling of moving targets via mobile decentralized sensors"
+  pub_info: "2019 International Conference on Robotics and Automation (ICRA)"
+  year: 2019
+  pub_type: "Conference paper"
+  url_external: ""
+
+- authors_text: "Shun Yang, Wenshuo Wang, Chang Liu, Weiwen Deng"
+  title: "Scene understanding in deep learning-based end-to-end controllers for autonomous vehicles"
+  pub_info: "IEEE Transactions on Systems, Man, and Cybernetics: Systems"
+  year: 2018
+  pub_type: "Journal article"
+  url_external: ""
+
+- authors_text: "Shengbo Eben Li, Guofa Li, Jiaying Yu, Chang Liu, Bo Cheng, Jianqiang Wang, Keqiang Li"
+  title: "Kalman filter-based tracking of moving objects using linear ultrasonic sensor array for road vehicles"
+  pub_info: "Mechanical Systems and Signal Processing"
+  year: 2018
+  pub_type: "Journal article"
+  url_external: ""
+
+- authors_text: "Chang Liu, Shengbo Eben Li, Diange Yang, J Karl Hedrick"
+  title: "Distributed Bayesian Filter Using Measurement Dissemination for Multiple Unmanned Ground Vehicles With Dynamically Changing Interaction Topologies"
+  pub_info: "Journal of Dynamic Systems, Measurement, and Control"
+  year: 2018
+  pub_type: "Journal article"
+  url_external: ""
+
+- authors_text: "Jaime F Fisac, Monica A Gates, Jessica B Hamrick, Chang Liu, Dylan Hadfield-Menell, Malayandi Palaniappan, Dhruv Malik, S Shankar Sastry, Thomas L Griffiths, Anca D Dragan"
+  title: "Pragmatic-pedagogic value alignment"
+  pub_info: "Robotics Research"
+  year: 2017
+  pub_type: "Conference paper"
+  url_external: ""
+
+- authors_text: "Chang Liu, Seungho Lee, Scott Varnhagen, H Eric Tseng"
+  title: "Path planning for autonomous vehicles using model predictive control"
+  pub_info: "2017 IEEE Intelligent Vehicles Symposium (IV)"
+  year: 2017
+  pub_type: "Conference paper"
+  url_external: ""
+
+- authors_text: "Chang Liu, J Karl Hedrick"
+  title: "Model predictive control-based target search and tracking using autonomous mobile robot with limited sensing domain"
+  pub_info: "2017 American Control Conference (ACC)"
+  year: 2017
+  pub_type: "Conference paper"
+  url_external: ""
+
+- authors_text: "Chang Liu, Shengbo Eben Li, J Karl Hedrick"
+  title: "Measurement dissemination-based distributed Bayesian filter using the latest-in-and-full-out exchange protocol for networked unmanned vehicles"
+  pub_info: "IEEE Transactions on Industrial Electronics"
+  year: 2017
+  pub_type: "Journal article"
+  url_external: ""
+
+- authors_text: "Viktor Rausch, Andreas Hansen, Eugen Solowjow, Chang Liu, Edwin Kreuzer, J Karl Hedrick"
+  title: "Learning a deep neural net policy for end-to-end control of autonomous vehicles"
+  pub_info: "2017 American Control Conference (ACC)"
+  year: 2017
+  pub_type: "Conference paper"
+  url_external: ""
+
+- authors_text: "Wenshuo Wang, Chang Liu, Ding Zhao"
+  title: "How much data are enough? A statistical approach with case study on longitudinal driving behavior"
+  pub_info: "IEEE Transactions on Intelligent Vehicles"
+  year: 2017
+  pub_type: "Journal article"
+  url_external: ""
+
+- authors_text: "Shun Yang, Wenshuo Wang, Chang Liu, Weiwen Deng, J Karl Hedrick"
+  title: "Feature analysis and selection for training an end-to-end autonomous vehicle controller using deep learning approach"
+  pub_info: "2017 IEEE Intelligent Vehicles Symposium (IV)"
+  year: 2017
+  pub_type: "Conference paper"
+  url_external: ""
+
+- authors_text: "Chang Liu, Shengbo Eben Li, J Karl Hedrick"
+  title: "Distributed Bayesian filters for multi-vehicle network by using Latest-In-and-Full-Out exchange protocol of measurements"
+  pub_info: "2017 American Control Conference (ACC)"
+  year: 2017
+  pub_type: "Conference paper"
+  url_external: ""
+
+- authors_text: "Donghan Lee, Chang Liu, Yi-Wen Liao, J Karl Hedrick"
+  title: "Parallel interacting multiple model-based human motion prediction for motion planning of companion robots"
+  pub_info: "IEEE Transactions on Automation Science and Engineering"
+  year: 2016
+  pub_type: "Journal article"
+  url_external: ""
+
+- authors_text: "Wenshuo Wang, Junqiang Xi, Chang Liu, Xiaohan Li"
+  title: "Human-centered feed-forward control of a vehicle steering system based on a driver's path-following characteristics"
+  pub_info: "IEEE transactions on intelligent transportation systems"
+  year: 2016
+  pub_type: "Journal article"
+  url_external: ""
+
+- authors_text: "Chang Liu, Jessica B Hamrick, Jaime F Fisac, Anca D Dragan, J Karl Hedrick, S Shankar Sastry, Thomas L Griffiths"
+  title: "Goal Inference Improves Objective and Perceived Performance in Human-Robot Collaboration"
+  pub_info: "Proceedings of the 2016 International Conference on Autonomous Agents & Multiagent Systems"
+  year: 2016
+  pub_type: "Conference paper"
+  url_external: ""
+
+- authors_text: "Jaime F Fisac, Chang Liu, Jessica B Hamrick, Shankar Sastry, J Karl Hedrick, Thomas L Griffiths, Anca D Dragan"
+  title: "Generating plans that predict themselves"
+  pub_info: "Algorithmic Foundations of Robotics XII"
+  year: 2016
+  pub_type: "Conference paper"
+  url_external: ""
+
+- authors_text: "Jiaying Yu, Shengbo Eben Li, Chang Liu, Bo Cheng"
+  title: "Dynamical tracking of surrounding objects for road vehicles using linearly-arrayed ultrasonic sensors"
+  pub_info: "2016 IEEE Intelligent Vehicles Symposium (IV)"
+  year: 2016
+  pub_type: "Conference paper"
+  url_external: ""
+
+- authors_text: "Chang Liu, Shengbo Eben Li, J Karl Hedrick"
+  title: "Distributed target localization using a group of UGVs under dynamically changing interaction topologies"
+  pub_info: "2016 American Control Conference (ACC)"
+  year: 2016
+  pub_type: "Conference paper"
+  url_external: ""
+
+- authors_text: "Chang Liu, J Karl Hedrick"
+  title: "Cooperative search using human-UAV teams"
+  pub_info: "AIAA Infotech@ Aerospace"
+  year: 2016
+  pub_type: "Conference paper"
+  url_external: ""
+
+- authors_text: "Chang Liu, Shengbo Eben Li, J Karl Hedrick"
+  title: "Model predictive control-based probabilistic search method for autonomous ground robot in a dynamic environment"
+  pub_info: "Dynamic Systems and Control Conference"
+  year: 2015
+  pub_type: "Conference paper"
+  url_external: ""
+
+- authors_text: "Donghan Lee, Chang Liu, J Karl Hedrick"
+  title: "Interacting multiple model-based human motion prediction for motion planning of companion robots"
+  pub_info: "2015 IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR)"
+  year: 2015
+  pub_type: "Conference paper"
+  url_external: ""
+
+- authors_text: "Chang Liu, Shih-Yuan Liu, Elena L Carano, J Karl Hedrick"
+  title: "A framework for autonomous vehicles with goal inference and task allocation capabilities to support peer collaboration with human agents"
+  pub_info: "Dynamic Systems and Control Conference"
+  year: 2014
+  pub_type: "Conference paper"
+  url_external: ""
