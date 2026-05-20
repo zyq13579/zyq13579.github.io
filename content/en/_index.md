@@ -84,6 +84,7 @@ recentWorksBlock:
     title: 
     link: 
 
+
   - img: recent_works/rw3.jpg
     desc: "[ICRA'25] We propose SpatialBot, a family of state-of-the-art VLMs, for effective depth understanding and thus precise robot manipulating in embodied AI by training on our constructed SpatialQA and SpatialQA-E datasets."
     title: 
