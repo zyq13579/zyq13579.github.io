@@ -1,0 +1,30 @@
+<!-- get value from params -->
+{{/*
+
+使用示例, 在 md 文件里面写：
+{{< video src="images/works/experiemtns.mp4" style="" >}}
+
+*/}}
+
+
+{{ $class:= .Get "class" }}
+{{ $src:= .Get "src" }}
+{{ $style:= .Get "style" }}
+{{ $autoplay:= .Get "autoplay" | default "false" }}
+{{ $controls:= .Get "controls" | default "true" }}
+{{ $loop:= .Get "loop" | default "false" }}
+{{ $muted:= .Get "muted" | default "false" }}
+
+
+<div class="short-code-video {{$class}}" >
+  <video 
+    src="{{ relURL $src }}" 
+    style="{{ $style | safeCSS }}"
+    {{ if eq $controls "true" }}controls{{ end }}
+    {{ if eq $autoplay "true" }}autoplay{{ end }}
+    {{ if eq $loop "true" }}loop{{ end }}
+    {{ if eq $muted "true" }}muted{{ end }}
+  >
+    Your browser does not support the video tag.
+  </video>
+</div>
