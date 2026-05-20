@@ -70,7 +70,9 @@ Recent works
       <div class="">
 
         <div class="card">
-          <a href="{{ .link }}"><img src="{{ $image.RelPermalink }}" alt="{{ .title }}"></a>
+          {{if .link}}<a href="{{ .link | relURL }}"> {{end}}
+            <img src="{{ $image.RelPermalink }}" alt="{{ .title }}">
+          {{if .link}} </a> {{end}}
           <div class="card-body">
             <!-- <h5 class="card-title">title</h5> -->
             <p class="card-text">{{ .desc }}</p>

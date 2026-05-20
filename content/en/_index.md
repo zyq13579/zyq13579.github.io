@@ -77,12 +77,12 @@ recentWorksBlock:
   - img: recent_works/rw1.jpg
     desc: "The motivation of this work is to address the significant challenges of computationally demanding and safety-critical motion planning for large-scale robotic swarms navigating cluttered environments, which can be applied to missions including search and rescue, warehouse automation, and environmental exploration. "
     title: 
-    link: 
+    link: recent-works/risk-aware
     
   - img: recent_works/rw2.jpg
     desc: "[CVPR'25 Oral] We propose Video-XL, a novel approach that leverages MLLMs’ inherent KV sparsification capacity to condense the visual input realizes outstanding cost-effectiveness, enabling high-quality processing of thousands of frames on a single A100 GPU."
     title: 
-    link:  
+    link:  https://baidu.com
 
   - img: recent_works/rw3.jpg
     desc: "[ICRA'25] We propose SpatialBot, a family of state-of-the-art VLMs, for effective depth understanding and thus precise robot manipulating in embodied AI by training on our constructed SpatialQA and SpatialQA-E datasets."
