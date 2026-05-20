@@ -75,34 +75,34 @@ heroSlideBlock:
 # Recent works
 recentWorksBlock:
   - img: recent_works/rw1.jpg
-    desc: "STI-Bench: a benchmark designed to evaluate MLLMs’ spatial-temporal understanding through challenging tasks such as estimating and predicting the appearance, pose, displacement, and motion of objects."
+    desc: "The motivation of this work is to address the significant challenges of computationally demanding and safety-critical motion planning for large-scale robotic swarms navigating cluttered environments, which can be applied to missions including search and rescue, warehouse automation, and environmental exploration. "
     title: 
-    link: https://mint-sjtu.github.io/STI-Bench.io/
+    link: 
     
   - img: recent_works/rw2.jpg
     desc: "[CVPR'25 Oral] We propose Video-XL, a novel approach that leverages MLLMs’ inherent KV sparsification capacity to condense the visual input realizes outstanding cost-effectiveness, enabling high-quality processing of thousands of frames on a single A100 GPU."
     title: 
-    link: https://github.com/VectorSpaceLab/Video-XL/tree/main
+    link:  
 
   - img: recent_works/rw3.jpg
     desc: "[ICRA'25] We propose SpatialBot, a family of state-of-the-art VLMs, for effective depth understanding and thus precise robot manipulating in embodied AI by training on our constructed SpatialQA and SpatialQA-E datasets."
     title: 
-    link: https://github.com/BAAI-DCAI/SpatialBot/
+    link: 
 
   - img: recent_works/rw4.jpg
     desc: "[ECCV'24] We introduces Omni6DPose, a substantial benchmark featured by its diversity in object categories, large scale, and variety in object materials, across 581 instances in 149 categories."
     title: 
-    link: https://jiyao06.github.io/Omni6DPose/
+    link: 
 
   - img: recent_works/rw5.jpg
     desc: "[NeurIPS'24 Spotlight] We propose a 3D foundation segmentation model, named SegVol, supporting universal and interactive volumetric medical image segmentation, supporting the segmentation of over 200 anatomical categories."
     title: 
-    link: https://github.com/BAAI-DCAI/SegVol
+    link: 
 
   - img: recent_works/rw6.jpg
     desc: "We introduce Emu3, a new suite of state-of-the-art multimodal models trained solely with next-token prediction. By tokenizing images, text, and videos into a discrete space, we train a single transformer from scratch on a mixture of multimodal sequences."
     title: 
-    link: https://emu.baai.ac.cn/about
+    link: 
 
 
 

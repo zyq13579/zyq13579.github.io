@@ -13,6 +13,7 @@
 
 
 {{/*
+用轮播图展示news
 jQuery轮播效果（Carousell）
 注意 prev nextl 两个button的href id 和 setction id要一致
 https://blog.csdn.net/chenmo2001/article/details/117674446
@@ -21,6 +22,7 @@ https://blog.csdn.net/chenmo2001/article/details/117674446
 {{ $slider_args := dict "wcPage" $ "wcBlock" .Params.heroSlideBlock "wcIdentifier" $slider_hash_id }}
 <section id="section-hero" class="home-section wg-hero">
   <div class="container">
+    <div class="section-c-title">Recent News</div>
     <div class="row">
       <div class="col-12  hero-media carousel slide " data-ride="carousel" id="{{ $slider_hash_id }}">
         {{ partial "blocks/slider.html" $slider_args }}
@@ -35,6 +37,8 @@ https://blog.csdn.net/chenmo2001/article/details/117674446
 {{/*
 Recent News
 */}}
+
+{{/*
 {{ $recent_news := site.Data.news | first 5 }}
 <section id="section-recent-news" class="home-section ">
   <div class="container">
@@ -48,7 +52,7 @@ Recent News
     </div>
   </div>
 </section>
-
+*/}}
 
 
 {{/*
@@ -82,4 +86,3 @@ Recent works
 </section>
 
 
- 
