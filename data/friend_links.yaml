@@ -1,0 +1,9 @@
+page_bottom:
+  - name: "北京大学"
+    url: "https://www.pku.edu.cn/"
+
+  - name: "北京大学先进制造与机器人学院"
+    url: "https://makers.pku.edu.cn/"
+
+  - name: "第一推力"
+    url: "https://thefirstmove.ai/"

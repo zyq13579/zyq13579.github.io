@@ -1,6 +1,19 @@
 <div class="nav-footer pb-5 pt-5" >
 
-  <div class="nav-footer-center" style="text-align: center;">
+
+  <div class="bottom-links-list-wrap">
+
+        {{ range  $index, $item := site.Data.friend_links.page_bottom  }}
+          <a class="bottom-f-link"
+              target="_blank"
+              href="{{$item.url}}">
+            {{$item.name | markdownify }}
+          </a>
+        {{ end }}
+
+  </div>
+
+  <div class="nav-footer-center pt-5" style="text-align: center;">
     &nbsp;<a href='{{"" | relURL }}' >{{site.Title}}</a> ©
     <script>document.write(new Date().getFullYear())</script>
   </div>

@@ -1,23 +1,53 @@
+
+
 - title: ""
+  date: 2024
+  summary: |
+    Xuru Yang and Yuqiao Zhao's paper: [Risk-Aware and Scalable Hierarchical Motion Planning for Large-Scale Robotic Swarms via CVaR-Constrained MPC](https://ieeexplore.ieee.org/document/11313580) has been accepted to IEEE Transactions on Automation Science and Engineering!!
+  lead_image: "images/news/risk-aware-scalable.jpg"
+
+
+
+- title: ""
+  date: 2024
+  summary: |
+    Kangjie Zhou's paper "[ReSPIRe: Informative and Reusable Belief Tree Search for Robot Probabilistic Search and Tracking in Unknown Environments](https://ieeexplore.ieee.org/abstract/document/11293378)" has been accepted to IEEE Transactions on Systems, Man, and Cybernetics: Systems!!
+  lead_image: "images/news/ReSPIRe.png"
+
+
+
+- title: ""
+  date: 2024
+  summary: |
+    Kangjie Zhou's paper "[AINav: Large Language Model-Based Adaptive Interactive Navigation](https://ieeexplore.ieee.org/abstract/document/11313696)" has been accepted to IEEE Robotics & Automation Magazine!!
+  lead_image: "images/news/AINav.png"
+
+
+
+- title: ""
+  date: 2024
   summary: |
     Xuru Yang's paper: [Risk-Aware Non-Myopic Motion Planner for Large-Scale Robotic Swarm Using CVaR Constraints](https://arxiv.org/abs/2402.16690) has been accepted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024!!
   lead_image: "images/news/xuruyang2.png"
 
 - title: ""
+  date: 2024
   summary: |
     Yunze Hu's paper: [SwarmPRM: Probabilistic Roadmap Motion Planning for [warm Robotic Systems](https://arxiv.org/abs/2402.16699) has been accepted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024!!
   lead_image: "images/news/yunzehu_2024.png"
 
 - title: ""
-  summary: |
-    Pengying Wu's paper: CAMON: Cooperative Agents for Multi-Object Navigation with LLM-based Conversations has been accepted to 2024 Workshop at Robotics: Science and Systems (RSS)!!
-  lead_image: "images/news/wupengying2.png"
-
-- title: ""
+  date: 2024
   summary: |
     Pengying Wu's paper: [VoroNav: Voronoi-based Zero-shot Object Navigation with Large Language Model](https://openreview.net/forum?id=Va7mhTVy5s) has been accepted to International Conference on Machine Learning (ICML), 2024!!
   lead_image: "images/news/wupengying.png"
 
 
 
-  
+- title: ""
+  date: 2024
+  summary: |
+    Pengying Wu's paper: CAMON: Cooperative Agents for Multi-Object Navigation with LLM-based Conversations has been accepted to 2024 Workshop at Robotics: Science and Systems (RSS)!!
+  lead_image: "images/news/wupengying2.png"
+
+

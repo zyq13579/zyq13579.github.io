@@ -118,7 +118,11 @@ body {
 
 #section-recent-works {
   .card {
-    min-height: 30rem;
+    min-height: 31rem;
+  }
+  div:nth-child(4) .card,
+  div:nth-child(6) .card {
+    min-height: 41rem;
   }
 }
 
@@ -373,10 +377,41 @@ body {
 
   }
 }
+
+.page-footer {
+  border-top: 1px solid   #eee;
+  .bottom-links-list-wrap {
+    text-align: center;
+    .bottom-f-link {
+        display: inline-block;
+        margin: 0 1rem;
+        border: 1px solid #eee;
+        box-sizing: border-box;
+        padding: 0.5rem;
+        color: #666666;
+      }
+  }
+
+
+  .powered-by {
+        display: none;
+  }
+}
+
+
+
+
+
 @media (max-width: 478px) {
   .navbar-brand {
     margin: 0 auto;
   }
+
+  #section-recent-works {
+ .card {
+    min-height: auto !important;
+  }
+}
 }
 
 
@@ -419,6 +454,4 @@ body {
   }
 }
 
-.site-footer .powered-by {
-  display: none;
-}
+

@@ -18,6 +18,9 @@ jQuery轮播效果（Carousell）
 注意 prev nextl 两个button的href id 和 setction id要一致
 https://blog.csdn.net/chenmo2001/article/details/117674446
 */}}
+{{/*
+取消轮播形式的news, 用列表形式
+
 {{ $slider_hash_id := "hero_sliders" }}
 {{ $slider_args := dict "wcPage" $ "wcBlock" .Params.heroSlideBlock "wcIdentifier" $slider_hash_id }}
 <section id="section-hero" class="home-section wg-hero">
@@ -31,18 +34,17 @@ https://blog.csdn.net/chenmo2001/article/details/117674446
     </div>
   </div>
 </section>
-
+*/}}
 
 
 {{/*
 Recent News
 */}}
 
-{{/*
-{{ $recent_news := site.Data.news | first 5 }}
+{{ $recent_news := site.Data.news | first 6 }}
 <section id="section-recent-news" class="home-section ">
   <div class="container">
-    <div class="section-c-title">Recent News</div>
+    <div class="section-c-title" ><a href="{{"news" | relURL}}" style="color: #000;">Recent News</a></div>
     <div class="home-news-list-wrap">
 
         {{ range  $index, $item := $recent_news}}
@@ -52,7 +54,7 @@ Recent News
     </div>
   </div>
 </section>
-*/}}
+
 
 
 {{/*
@@ -70,7 +72,7 @@ Recent works
       <div class="">
 
         <div class="card">
-          {{if .link}}<a href="{{ .link | relURL }}"> {{end}}
+          {{if .link}}<a href="{{ .link | relURL }}" target="_blank"> {{end}}
             <img src="{{ $image.RelPermalink }}" alt="{{ .title }}">
           {{if .link}} </a> {{end}}
           <div class="card-body">

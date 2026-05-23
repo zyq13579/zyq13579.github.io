@@ -1,0 +1,133 @@
+{{- define "main" -}}
+{{ $recent_news := site.Data.news }}
+
+{{/* 2. (可选) 对数据进行排序，例如按年份降序排列，排序必须在分页前完成 [citation:10] */}}
+{{/*  {{ $recent_news = sort $recent_news "year" "desc" }}  */}}
+
+
+{{ partial "page_header.html" . }}
+
+<div class="universal-wrapper">
+  <div class="container">
+    {{/*  <div class="section-c-title">Recent News</div>  */}}
+    <div class="all-news-list-wrap" id="new_data_list">
+
+        {{ range  $index, $item := $recent_news}}
+          {{ partial "views/news_item.html" (dict "item" $item) }}
+        {{ end }}
+
+    </div>
+
+    <!-- Bootstrap 4 分页导航 -->
+  <nav aria-label="Page navigation " class="pt-5">
+    <ul class="pagination justify-content-center" id="pagination-nav"></ul>
+  </nav>
+
+  </div>
+</div>
+
+
+<script>
+  (function() {
+    // 1. 获取所有需要分页的列表项
+    const list = document.getElementById('new_data_list');
+    const items = list ? Array.from(list.children) : [];
+    const totalItems = items.length;
+
+
+    // 2. 分页配置
+    const itemsPerPage = 10;   // 每页显示  10 条
+    let currentPage = 1;
+    let totalPages = Math.ceil(totalItems / itemsPerPage);
+
+    // 3. 显示指定页码的数据（通过隐藏/显示）
+    function showPage(page) {
+      if (page < 1) page = 1;
+      if (page > totalPages) page = totalPages;
+      if (totalItems === 0) return;
+
+      const start = (page - 1) * itemsPerPage;
+      const end = start + itemsPerPage;
+
+      // 遍历所有列表项，只显示当前页范围内的
+      items.forEach((item, index) => {
+        if (index >= start && index < end) {
+          item.style.display = '';        // 显示
+        } else {
+          item.style.display = 'none';     // 隐藏
+        }
+      });
+
+      currentPage = page;
+      renderPagination();
+    }
+
+    // 4. 渲染 Bootstrap 4 分页导航
+    function renderPagination() {
+      const paginationContainer = document.getElementById('pagination-nav');
+      if (!paginationContainer) return;
+      if (totalPages <= 1) {
+        paginationContainer.innerHTML = '';
+        return;
+      }
+
+      let html = '';
+
+      // 上一页
+      if (currentPage === 1) {
+        html += `<li class="page-item disabled"><span class="page-link">Previous</span></li>`;
+      } else {
+        html += `<li class="page-item"><a class="page-link" href="#" data-page="${currentPage - 1}">Previous</a></li>`;
+      }
+
+      // 页码按钮（最多显示 5 个，当前页居中）
+      let startPage = Math.max(1, currentPage - 2);
+      let endPage = Math.min(totalPages, currentPage + 2);
+      if (endPage - startPage < 4) {
+        if (startPage === 1) endPage = Math.min(totalPages, startPage + 4);
+        if (endPage === totalPages) startPage = Math.max(1, endPage - 4);
+      }
+
+      for (let i = startPage; i <= endPage; i++) {
+        if (i === currentPage) {
+          html += `<li class="page-item active"><span class="page-link">${i}</span></li>`;
+        } else {
+          html += `<li class="page-item"><a class="page-link" href="#" data-page="${i}">${i}</a></li>`;
+        }
+      }
+
+      // 下一页
+      if (currentPage === totalPages) {
+        html += `<li class="page-item disabled"><span class="page-link">Next</span></li>`;
+      } else {
+        html += `<li class="page-item"><a class="page-link" href="#" data-page="${currentPage + 1}">Next</a></li>`;
+      }
+
+      paginationContainer.innerHTML = html;
+    }
+
+    // 5. 事件监听（委托）
+    document.addEventListener('click', function(e) {
+      const link = e.target.closest('.page-link');
+      if (link && link.dataset && link.dataset.page) {
+        e.preventDefault();
+        const newPage = parseInt(link.dataset.page, 10);
+        if (!isNaN(newPage)) {
+          showPage(newPage);
+        }
+      }
+    });
+
+    // 6. 初始化：显示第一页
+    if (totalItems > 0) {
+      showPage(1);
+    } else {
+      // 如果没有数据，显示提示
+      if (list) {
+        list.innerHTML = '<li class="alert alert-info">No data</li>';
+      }
+    }
+  })();
+</script>
+
+{{- end -}}

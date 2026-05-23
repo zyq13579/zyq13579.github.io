@@ -74,37 +74,37 @@ heroSlideBlock:
 
 # Recent works
 recentWorksBlock:
-  - img: recent_works/rw1.jpg
-    desc: "The motivation of this work is to address the significant challenges of computationally demanding and safety-critical motion planning for large-scale robotic swarms navigating cluttered environments, which can be applied to missions including search and rescue, warehouse automation, and environmental exploration. "
+  - img: recent_works/home-rw1.jpg
+    desc: "[IEEE T-ASE’25]The motivation of this work is to address the significant challenges of computationally demanding and safety-critical motion planning for large-scale robotic swarms navigating cluttered environments, which can be applied to missions including search and rescue, warehouse automation, and environmental exploration. "
     title: 
-    link: recent-works/risk-aware
+    # link: recent-works/risk-aware
+    link: https://ieeexplore.ieee.org/document/11313580
     
-  - img: recent_works/rw2.jpg
-    desc: "[CVPR'25 Oral] We propose Video-XL, a novel approach that leverages MLLMs’ inherent KV sparsification capacity to condense the visual input realizes outstanding cost-effectiveness, enabling high-quality processing of thousands of frames on a single A100 GPU."
+  - img: recent_works/home-rw2.png
+    desc: "[IEEE TSMC: Systems’25] We propose ReSPIRe, which plans informative search-and-tracking trajectories by estimating belief-space information gain with sigma-point mutual-information approximation and accelerating online belief-tree search through hierarchical particles and reusable rollouts. "
     title: 
-    link: 
+    link: https://ieeexplore.ieee.org/abstract/document/11293378
 
 
-  - img: recent_works/rw3.jpg
-    desc: "[ICRA'25] We propose SpatialBot, a family of state-of-the-art VLMs, for effective depth understanding and thus precise robot manipulating in embodied AI by training on our constructed SpatialQA and SpatialQA-E datasets."
+  - img: recent_works/home-rw3.png
+    desc: "[IEEE RAM’25] We propose AINav, an LLM-based adaptive interactive navigation framework that combines primitive skill tree planning, RL-pretrained locomotion and interaction skills, and adaptive replanning to proactively modify cluttered environments and reach originally unreachable goals. "
     title: 
-    link: 
+    link: https://ieeexplore.ieee.org/abstract/document/11313696
 
-  - img: recent_works/rw4.jpg
-    desc: "[ECCV'24] We introduces Omni6DPose, a substantial benchmark featured by its diversity in object categories, large scale, and variety in object materials, across 581 instances in 149 categories."
+  - img: recent_works/home-rw4.png
+    desc: "[ICML’24] VoroNav is a zero-shot object navigation (ZSON) framework that builds a Reduced Voronoi Graph from a real-time semantic map to extract traversable paths and intersection-based waypoints. It converts the topological structure into path descriptions and farsight descriptions (via BLIP image captioning), which an LLM (ChatGPT) uses with commonsense reasoning to select navigation waypoints. "
     title: 
-    link: 
+    link: https://voro-nav.github.io/
 
-  - img: recent_works/rw5.jpg
-    desc: "[NeurIPS'24 Spotlight] We propose a 3D foundation segmentation model, named SegVol, supporting universal and interactive volumetric medical image segmentation, supporting the segmentation of over 200 anatomical categories."
+  - img: recent_works/home-rw5.jpg
+    desc: "[R-AL’24] We propose DOZE, a high-fidelity dataset for open-vocabulary zero-shot object navigation in dynamic environments, featuring 10 realistic 3D scenes and over 18K tasks. DOZE introduces moving humanoid obstacles, diverse open-vocabulary and attribute-varied target objects, scene-text hints, dynamic goal objects, and agent–moving-obstacle collision detection, enabling more realistic evaluation of navigation efficiency, safety, and object recognition in embodied AI."
     title: 
-    link: 
+    link: https://doze-dataset.github.io/
 
-  - img: recent_works/rw6.jpg
-    desc: "We introduce Emu3, a new suite of state-of-the-art multimodal models trained solely with next-token prediction. By tokenizing images, text, and videos into a discrete space, we train a single transformer from scratch on a mixture of multimodal sequences."
+  - img: recent_works/home-rw6.png
+    desc: "[IROS’24]We propose SwarmPRM, a hierarchical, highly scalable, and risk-aware sampling-based motion planning approach for swarm robots, representing the swarm’s macroscopic state as a GMM to guide the navigation of individual robots."
     title: 
-    link: 
-
+    link: https://ieeexplore.ieee.org/document/10801905
 
 
 
