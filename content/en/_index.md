@@ -102,7 +102,7 @@ recentWorksBlock:
     link: https://doze-dataset.github.io/
 
   - img: recent_works/home-rw6.png
-    desc: "[IROS’24]We propose SwarmPRM, a hierarchical, highly scalable, and risk-aware sampling-based motion planning approach for swarm robots, representing the swarm’s macroscopic state as a GMM to guide the navigation of individual robots."
+    desc: "[IROS’24] We propose SwarmPRM, a hierarchical, highly scalable, computationally efficient, and risk-aware sampling-based motion planning approach for swarm robots. At the macroscopic stage, the collective swarm is represented by a GMM. At the microscopic stage, individual robots track the GMM via a local tracking control law."
     title: 
     link: https://ieeexplore.ieee.org/document/10801905
 

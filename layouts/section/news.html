@@ -2,7 +2,7 @@
 {{ $recent_news := site.Data.news }}
 
 {{/* 2. (可选) 对数据进行排序，例如按年份降序排列，排序必须在分页前完成 [citation:10] */}}
-{{/*  {{ $recent_news = sort $recent_news "year" "desc" }}  */}}
+{{ $recent_news = sort $recent_news "date" "desc" }}
 
 
 {{ partial "page_header.html" . }}
@@ -19,7 +19,7 @@
     </div>
 
     <!-- Bootstrap 4 分页导航 -->
-  <nav aria-label="Page navigation " class="pt-5">
+  <nav aria-label="Page navigation " class="pt-5 pb-5">
     <ul class="pagination justify-content-center" id="pagination-nav"></ul>
   </nav>
 

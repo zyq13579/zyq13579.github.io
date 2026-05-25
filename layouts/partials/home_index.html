@@ -41,10 +41,12 @@ https://blog.csdn.net/chenmo2001/article/details/117674446
 Recent News
 */}}
 
-{{ $recent_news := site.Data.news | first 6 }}
+{{ $recent_news := site.Data.news | first 10 }}
+{{ $recent_news = sort $recent_news "date" "desc" }}
 <section id="section-recent-news" class="home-section ">
   <div class="container">
-    <div class="section-c-title" ><a href="{{"news" | relURL}}" style="color: #000;">Recent News</a></div>
+    {{/*  <div class="section-c-title" ><a href="{{"news" | relURL}}" style="color: #000;">Recent News</a></div>  */}}
+    <div class="section-c-title" >Recent News</div>
     <div class="home-news-list-wrap">
 
         {{ range  $index, $item := $recent_news}}
@@ -52,6 +54,7 @@ Recent News
         {{ end }}
 
     </div>
+    <div class="news-more"><a  href="{{"news" | relURL}}" >More...</a></div>
   </div>
 </section>
 
