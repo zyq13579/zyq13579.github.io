@@ -21,4 +21,10 @@ sections:
       show_interests: false
       show_role: true
       show_social: true
+- block: markdown
+    content:
+      title: Alumni
+      text: |
+        - Name A, M.S. (2025), current employment
+        - Name B, M.S. (2025), current employment
 ---
