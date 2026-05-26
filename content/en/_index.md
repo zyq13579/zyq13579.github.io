@@ -17,13 +17,9 @@ heroBlock:
 
       **Welcome to the Autonomous Robots Lab (ARL) at Peking University, China.**
 
-      **ARL** investigates problems related to the planning and perception of autonomous systems and intelligent robots. The lab combines expertise from robotics, control theory, machine learning, optimization, and cognitive science to develop theories and methodologies for single and multi-robot systems to reliably and efficiently operate in uncertain and dynamically changing environments.
+      **ARL** focuses on embodied AI and multi-robot collaboration in complex real-world environments. The lab develops intelligent decision-making and coordination algorithms that enable autonomous robots to robustly navigate, interact, and cooperate under uncertainty. Our research draws from robotics, machine learning, control theory, and optimization to advance embodied intelligence for both single-robot and multi-robot systems.
 
-      **Chang Liu** received the B.S. degrees in Electronic Information Science and Technology and in Mathematics and Applied Mathematics (double degree) from the Peking University, China, in 2011, and the M.S. degrees in Mechanical Engineering and in Computer Science, and the Ph.D. degree in Mechanical Engineering from the University of California, Berkeley, USA, in 2014, 2015, and 2017, respectively. He is currently an Assistant Professor with the School of Advanced Manufacturing and Robotics, Peking University. From 2017 to 2020, he was a Postdoctoral Associate with the Cornell University, USA. He has also worked for Ford Motor Company and NVIDIA Corporation on autonomous vehicles. His research interests include robot motion planning, active sensing, and multirobot collaboration.
-
-      **刘畅**于 2011 年在北京大学获得电子信息科学与技术以及数学与应用数学双学士学位。随后，他分别于 2014 年、2015 年和 2017 年在美国加州大学伯克利分校获得机械工程和计算机科学硕士学位以及机械工程博士学位，2017 年至 2020 年，他担任美国康奈尔大学的博士后研究员，现于北京大学先进制造与机器人学院担任助理教授。他曾在福特汽车公司和英伟达公司从事自动驾驶相关工作。
-
-      I am working on Motion Planning, Active Sensing, Distributed Filtering, and Human Robot Collaboration. I am recruiting Ph.D./Master Students and Research Assistants/Interns. If you are interested, please read the Recruiting page (top-right).
+      Ph.D. and master’s students, as well as research assistants and interns, are being recruited. If you are interested, please read the Recruiting page (top-right).
 
       实验室研究方向：**机器人运动规划、主动感知、分布式滤波和人机交互**。实验室常年招收硕博士生以及实习生，详情请阅读右上角招聘页面。
 
