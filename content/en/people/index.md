@@ -21,12 +21,15 @@ sections:
       show_interests: false
       show_role: true
       show_social: true
+
   - block: markdown
     content:
       title: Undergraduate Students
       text: |
         - Name A, B.S., XX University (202x-202x)
         - Name B, B.S., XX University (202x-202x)
+
+  - block: markdown
     content:
       title: Alumni
       text: |
