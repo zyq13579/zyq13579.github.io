@@ -1,9 +1,8 @@
 {{ $item := .item }}
 
-<div class="img-list-item news-list-item row mt-5">
+<div class="img-list-item news-list-item row mt-2 mb-2">
   <div class="col-12 col-md-2">
-    {{/*  <img src="{{ $item.lead_image | relURL }}" alt="{{ $item.title | markdownify | safeHTML}}" class="img-fluid rounded-start">  */}}
-    {{ $item.date | markdownify | safeHTML}}
+    {{ dateFormat "2006-01" $item.date }}
   </div>
   <div class="col-12 col-md-10" style="text-align: justify;">
     {{ $item.summary | markdownify | emojify }}
