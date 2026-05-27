@@ -23,7 +23,7 @@ sections:
 
   - block: markdown
     content:
-      title: Undergraduate Students
+      title: Research Assistants & Interns
       text: |
         - Name A, B.S., XX University (202x-202x)
         - Name B, B.S., XX University (202x-202x)
