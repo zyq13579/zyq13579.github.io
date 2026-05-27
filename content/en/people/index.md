@@ -23,6 +23,11 @@ sections:
       show_social: true
   - block: markdown
     content:
+      title: Undergraduate Students
+      text: |
+        - Name A, B.S., XX University (202x-202x)
+        - Name B, B.S., XX University (202x-202x)
+    content:
       title: Alumni
       text: |
         - Name A, M.S. (2025), current employment
