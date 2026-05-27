@@ -1,10 +1,10 @@
 {{ $item := .item }}
 
-<div class="img-list-item news-list-item row mt-1 mb-1">
-  <div class="col-12 col-md-2">
+<div class="img-list-item news-list-item row mt-0 mb-0">
+  <div class="col-12 col-md-2 news-date">
     {{ dateFormat "2006-01" $item.date }}
   </div>
-  <div class="col-12 col-md-10" style="text-align: justify;">
+  <div class="col-12 col-md-10 news-summary" style="text-align: justify;">
     {{ $item.summary | markdownify | emojify }}
   </div>
 </div>
