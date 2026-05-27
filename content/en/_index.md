@@ -21,7 +21,7 @@ heroBlock:
 
         <span style="color: #f28c28;">Open positions for Master's/Ph.D. students and interns. Click <a href="/recruiting/" style="color: #f28c28; font-weight: 600;">[Recruiting]</a> for details.</span>
 
-      实验室研究方向：**机器人运动规划、主动感知、分布式滤波和人机交互**。实验室常年招收硕博士生以及实习生，详情请阅读右上角招聘页面。
+      实验室研究方向：**具身智能、多机器人协同、分布式状态估计**。实验室常年招收硕博士生以及实习生，详情请阅读右上角<a href="/recruiting/">[Recruiting]</a>页面。
 
   
 
