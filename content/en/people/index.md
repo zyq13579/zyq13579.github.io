@@ -12,7 +12,6 @@ sections:
       user_groups:
         - Principal Investigators
         - Graduate Students
-        - Undergraduate Students
 
       # sort_by: Params.last_name
       sort_by: Params.order_weight # 按此数字升序排列
