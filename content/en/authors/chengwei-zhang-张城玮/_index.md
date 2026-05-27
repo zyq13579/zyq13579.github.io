@@ -3,14 +3,14 @@
 title: Chengwei Zhang （张城玮）
 
 user_groups:
-  - Undergraduate Students
+  - Graduate Students
 
 # Username (this should match the folder name)
 # authors:
 #
 
 # Role/position
-role: Undergraduate  Student
+role: Graduate  Student
 
 # Organizations/Affiliations
 organizations:
