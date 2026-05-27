@@ -3,14 +3,14 @@
 title: Zongru Yang（杨宗儒）
 
 user_groups:
-  - Undergraduate Students
+  - Graduate Students
 
 # Username (this should match the folder name)
 # authors:
 #
 
 # Role/position
-role: Undergrad Student
+role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
