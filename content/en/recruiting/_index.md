@@ -19,3 +19,4 @@ title: Recruiting
 ### 其他
 
 - 邮件请发至邮箱：changliucoe@pku.edu.cn。无法及时逐一回复邮件，如未回复请谅解，后续有机会再合作。
+- Please send inquiries to changliucoe@pku.edu.cn. Due to the volume of emails, we may not be able to respond to each message in a timely manner. We appreciate your understanding and hope to explore future opportunities for collaboration.
