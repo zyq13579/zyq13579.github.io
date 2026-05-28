@@ -32,6 +32,6 @@ sections:
     content:
       title: Alumni
       text: |
-        - Name A, M.S. (2025), current employment
-        - Name B, M.S. (2025), current employment
+        - Xuru Yang, M.S. (2025), 深圳供电局有限公司
+        - Ji Ma, M.S. (2025), 云深处科技
 ---
