@@ -1,3 +1,115 @@
+- authors_text: "Wenhan Cao, Tianyi Zhang, Zeju Sun, Chang Liu, Stephen S.-T. Yau, Shengbo Eben Li"
+  title: "Nonlinear Bayesian Filtering with Natural Gradient Gaussian Approximation"
+  pub_info: "IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)"
+  year: 2026
+  pub_type: "Journal article"
+  url_external: "https://doi.org/10.1109/TPAMI.2026.3674120"
+
+- authors_text: "Xuru Yang, Yuqiao Zhao, Yunze Hu, Zongru Yang, Pingping Zhu, Ying Sun, Chang Liu"
+  title: "Risk-Aware and Scalable Hierarchical Motion Planning for Large-Scale Robotic Swarms via CVaR-Constrained MPC"
+  pub_info: "IEEE Transactions on Automation Science and Engineering (T-ASE)"
+  year: 2026
+  pub_type: "Journal article"
+  url_external: "https://doi.org/10.1109/TASE.2025.3647635"
+
+- authors_text: "Kangjie Zhou, Yao Mu, Haoyang Song, Yi Zeng, Pengying Wu, Han Gao, Chang Liu"
+  title: "AINav: Large Language Model-Based Adaptive Interactive Navigation"
+  pub_info: "IEEE Robotics & Automation Magazine (RAM)"
+  year: 2026
+  pub_type: "Journal article"
+  url_external: "https://doi.org/10.1109/MRA.2025.3639793"
+
+- authors_text: "Kangjie Zhou, Zhaoyang Li, Han Gao, Yao Su, Hangxin Liu, Junzhi Yu, Chang Liu"
+  title: "ReSPIRe: Informative and Reusable Belief Tree Search for Robot Probabilistic Search and Tracking in Unknown Environments"
+  pub_info: "IEEE Transactions on Systems, Man, and Cybernetics: Systems (TSMC)"
+  year: 2026
+  pub_type: "Journal article"
+  url_external: "https://doi.org/10.1109/TSMC.2025.3636589"
+
+- authors_text: "Kang Ding, Chunxuan Jiao, Yunze Hu, Kangjie Zhou, Pengying Wu, Yao Mu, Chang Liu"
+  title: "SwarmDiff: Swarm Robotic Trajectory Planning in Cluttered Environments via Diffusion Transformer"
+  pub_info: "IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)"
+  year: 2025
+  pub_type: "Conference paper"
+  url_external: "https://doi.org/10.1109/CVPRW67362.2025.00400"
+
+- authors_text: "James Gao, Jacob Lee, Yuting Zhou, Yunze Hu, Chang Liu, Pingping Zhu"
+  title: "SwarmCVT: Centroidal Voronoi Tessellation-Based Path Planning for Very-Large-Scale Robotics"
+  pub_info: "American Control Conference (ACC)"
+  year: 2025
+  pub_type: "Conference paper"
+  url_external: "https://doi.org/10.23919/ACC63710.2025.11107612"
+
+- authors_text: "Shiqi Liu, Wenhan Cao, Chang Liu, Zeyu He, Tianyi Zhang, Yinuo Wang, Shengbo Eben Li"
+  title: "One Filters All: A Generalist Filter for State Estimation"
+  pub_info: "Advances in Neural Information Processing Systems (NeurIPS)"
+  year: 2025
+  pub_type: "Conference paper"
+  url_external: "https://openreview.net/forum?id=EGK487IYAW"
+
+- authors_text: "Tianyi Zhang, Wenhan Cao, Chang Liu, Feihong Zhang, Wei Wu, Shengbo Eben Li"
+  title: "NANO-SLAM: Natural Gradient Gaussian Approximation for Vehicle SLAM"
+  pub_info: "IEEE International Conference on Intelligent Transportation Systems (ITSC)"
+  year: 2025
+  pub_type: "Conference paper"
+  url_external: "https://doi.org/10.1109/ITSC60802.2025.11423808"
+
+- authors_text: "Tianyi Zhang, Wenhan Cao, Chang Liu, Tao Zhang, Jiangtao Li, Shengbo Eben Li"
+  title: "Robust State Estimation for Legged Robots With Dual Beta Kalman Filter"
+  pub_info: "IEEE Robotics and Automation Letters (RA-L)"
+  year: 2025
+  pub_type: "Journal article"
+  url_external: "https://doi.org/10.1109/LRA.2025.3579619"
+
+- authors_text: "Wei Wu, Chang Liu, Ruofei Zhong, Hongbo Li, Tao Zhang, Hong Chen, Shengbo Eben Li"
+  title: "Enhancing LiDAR SLAM Mapping in Challenging Industrial Environments Using Nonholonomic Constraints"
+  pub_info: "Chinese Control and Decision Conference (CCDC)"
+  year: 2025
+  pub_type: "Conference paper"
+  url_external: "https://doi.org/10.1109/CCDC65474.2025.11090587"
+
+- authors_text: "Wenhan Cao, Chang Liu, Zhiqian Lan, Shengbo Eben Li, Wei Pan, Angelo Alessandri"
+  title: "Robust Bayesian Inference for Moving Horizon Estimation"
+  pub_info: "Automatica"
+  year: 2025
+  pub_type: "Journal article"
+  url_external: "https://doi.org/10.1016/j.automatica.2024.112108"
+
+- authors_text: "Jingliang Duan, Wenxuan Wang, Liming Xiao, Jiaxin Gao, Shengbo Eben Li, Chang Liu, Ya-Qin Zhang, Bo Cheng, Keqiang Li"
+  title: "Distributional Soft Actor-Critic With Three Refinements"
+  pub_info: "IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)"
+  year: 2025
+  pub_type: "Journal article"
+  url_external: "https://doi.org/10.1109/TPAMI.2025.3537087"
+
+- authors_text: "Haoyu Gao, Chang Liu, Yingxi Piao, Sen Yang, Beiyan Jiang, Shengbo Eben Li"
+  title: "Design of Explicit and Lateral-Longitudinal Integrated Motion Controller with Safety Guarantee for Autonomous Vehicles"
+  pub_info: "16th International Symposium on Advanced Vehicle Control (AVEC)"
+  year: 2024
+  pub_type: "Conference paper"
+  url_external: "https://doi.org/10.1007/978-3-031-70392-8_133"
+
+- authors_text: "Pingping Zhu, Chang Liu, Peter Estephan"
+  title: "A Novel Multivariate Skew-Normal Mixture Model and Its Application in Path-Planning for Very-Large-Scale Robotic Systems"
+  pub_info: "American Control Conference (ACC)"
+  year: 2024
+  pub_type: "Conference paper"
+  url_external: "https://doi.org/10.23919/ACC60939.2024.10644239"
+
+- authors_text: "Dongyoon Kim, Sen Yang, Wenjun Zou, Bin Shuai, Dezhao Zhang, Fang Zhang, Chang Liu, Shengbo Eben Li"
+  title: "Control Safety Function for Explicit Safety-Critical Control of Autonomous Vehicles"
+  pub_info: "IEEE Intelligent Vehicles Symposium (IV)"
+  year: 2024
+  pub_type: "Conference paper"
+  url_external: "https://doi.org/10.1109/IV55156.2024.10588553"
+
+- authors_text: "Shiqi Liu, Wenhan Cao, Chang Liu, Tianyi Zhang, Shengbo Eben Li"
+  title: "Convolutional Unscented Kalman Filter for Multi-Object Tracking With Outliers"
+  pub_info: "IEEE Transactions on Intelligent Vehicles (T-IV)"
+  year: 2024
+  pub_type: "Journal article"
+  url_external: "https://doi.org/10.1109/TIV.2024.3446851"
+
 - authors_text: "Xuru Yang, Yunze Hu, Han Gao, Kang Ding, Pingping Zhu, Ying Sun, Chang Liu"
   title: "Risk-Aware Non-Myopic Motion Planner for Large-Scale Robotic Swarm Using CVaR Constraints"
   pub_info: "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
