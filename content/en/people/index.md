@@ -25,13 +25,35 @@ sections:
     content:
       title: Research Assistants & Interns
       text: |
-        - Name A, B.S., XX University (202x-202x)
-        - Name B, B.S., XX University (202x-202x)
+        - Zhiyong Zhuo, B.S., Peking University (2021-2025)
+        - Qinghang Liu, B.S., Peking University (2022-2026)
+        - Ye Zhang, B.S., Peking University (2022-2026)
+        - Zhangxin Li, B.S., Peking University (2022-2026)
+        - Yi Zeng, B.S., Peking University (2022-2026)
+        - Haoyang Song, B.S., Peking University (2022-2026)
+        - Yingying Tang, B.S., Peking University (2023-2027)
+        - Yikai Yin, B.S., Peking University (2023-2027)
+        - Jiayu Yuan, B.S., Peking University (2023-2027)
+        - Bingyuan Zhong, B.S., Peking University (2023-2027)
+        - Yingying Tang, B.S., Peking University (2023-2027)
+        - Rongtao Tan, B.S., Peking University (2023-2027)
 
   - block: markdown
     content:
       title: Alumni
       text: |
-        - Xuru Yang, M.S. (2025), 深圳供电局有限公司
-        - Ji Ma, M.S. (2025), 云深处科技
+        - Ting Zhang, R.A., (2022-2024)
+        - Xuru Yang, M.S., (2025), 深圳供电局有限公司
+        - Ji Ma, M.S., (2025), 云深处科技
+        - Yunze Hu, B.S., (2024), Peking University
+        - Jiaao Chen, B.S., (2024), University of California, Berkeley
+        - Silan Zhang, B.S., (2024), Peking University
+        - Haijie Dai, B.S., (2024), Peking University
+        - Qianli Lei, B.S., (2024), Peking University
+        - Xinyu Liu, B.S., (2024), Peking University
+        - Yun Huang, B.S., (2025), Peking University
+        - Yongcheng Ouyang, B.S., (2025), Peking University
+        - Zongru Yang, B.S., (2025), Peking University
+        - Chengwei Zhang, B.S., (2025), Peking University
+        - Yishu Wang, Visiting Student, (2024)
 ---
