@@ -1,11 +1,21 @@
+- title: ""
+  date: 2026-07-01
+  summary: |
+    Kang Ding received his M.S. degree. Congratulations!!
+  lead_image: "images/news/risk-aware-scalable.jpg"
 
+
+- title: ""
+  date: 2026-05-01
+  summary: |
+    The Peking University–FirstMove Joint Laboratory is established, with Chang Liu serving as Director!!
+  lead_image: "images/news/risk-aware-scalable.jpg"
 
 - title: ""
   date: 2025-12-15
   summary: |
     Xuru Yang and Yuqiao Zhao's paper: [Risk-Aware and Scalable Hierarchical Motion Planning for Large-Scale Robotic Swarms via CVaR-Constrained MPC](https://ieeexplore.ieee.org/document/11313580) has been accepted to IEEE Transactions on Automation Science and Engineering!!
   lead_image: "images/news/risk-aware-scalable.jpg"
-
 
 
 - title: ""
@@ -23,6 +33,12 @@
   lead_image: "images/news/AINav.png"
 
 
+- title: ""
+  date: 2025-07-01
+  summary: |
+    Xuru Yang, Pengying Wu, and Ji Ma received their M.S. degrees. Congratulations!!
+  lead_image: "images/news/xuruyang2.png"
+
 
 - title: ""
   date: 2025-06-30
@@ -30,11 +46,13 @@
     Xuru Yang's paper: [Risk-Aware Non-Myopic Motion Planner for Large-Scale Robotic Swarm Using CVaR Constraints](https://arxiv.org/abs/2402.16690) has been accepted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024!!
   lead_image: "images/news/xuruyang2.png"
 
+
 - title: ""
   date: 2025-06-30
   summary: |
     Yunze Hu's paper: [SwarmPRM: Probabilistic Roadmap Motion Planning for Large-Scale Swarm Robotic Systems](https://arxiv.org/abs/2402.16699) has been accepted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024!!
   lead_image: "images/news/yunzehu_2024.png"
+
 
 - title: ""
   date: 2024-05-24
