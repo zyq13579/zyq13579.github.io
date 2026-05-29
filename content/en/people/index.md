@@ -53,6 +53,6 @@ sections:
         - Yun Huang, B.S., (class of 2025), Hunan University
         - Yongcheng Ouyang, B.S., (class of 2025), Peking University
         - Zongru Yang, B.S., (class of 2025), Peking University
-        - Chengwei Zhang, B.S., (class of 2025), Peking University
+        - Chengwei Zhang, B.S., (class of 2025), University of Hong Kong
         - Yishu Wang, Visiting Student, (2024)
 ---
