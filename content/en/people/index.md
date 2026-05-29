@@ -25,17 +25,17 @@ sections:
     content:
       title: Research Assistants & Interns
       text: |
-        - Zhiyong Zhuo, Undergrad., Peking University (since 2025)
-        - Yingying Tang, Undergrad., Peking University (since 2025)
-        - Yikai Yin, Undergrad., Peking University (since 2025)
-        - Jiayu Yuan, Undergrad., Peking University (since 2025)
-        - Bingyuan Zhong, Undergrad., Peking University (since 2025)
-        - Rongtao Tan, Undergrad., Peking University (since 2025)
-        - Qinghang Liu, Undergrad., Peking University (since 2024)
-        - Ye Zhang, Undergrad., Peking University (since 2024)
-        - Zhangxin Li, Undergrad., Peking University (since 2024)
-        - Yi Zeng, Undergrad., Peking University (since 2024)
-        - Haoyang Song, Undergrad., Peking University (since 2024)
+        - Zhiyong Zhuo, Undergrad, Peking University (since 2025)
+        - Yingying Tang, Undergrad, Peking University (since 2025)
+        - Yikai Yin, Undergrad, Peking University (since 2025)
+        - Jiayu Yuan, Undergrad, Peking University (since 2025)
+        - Bingyuan Zhong, Undergrad, Peking University (since 2025)
+        - Rongtao Tan, Undergrad, Peking University (since 2025)
+        - Qinghang Liu, Undergrad, Peking University (since 2024)
+        - Ye Zhang, Undergrad, Peking University (since 2024)
+        - Zhangxin Li, Undergrad, Peking University (since 2024)
+        - Yi Zeng, Undergrad, Peking University (since 2024)
+        - Haoyang Song, Undergrad, Peking University (since 2024)
 
   - block: markdown
     content:
