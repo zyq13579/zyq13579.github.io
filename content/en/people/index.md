@@ -25,35 +25,34 @@ sections:
     content:
       title: Research Assistants & Interns
       text: |
-        - Zhiyong Zhuo, B.S., Peking University (2021-2025)
-        - Qinghang Liu, B.S., Peking University (2022-2026)
-        - Ye Zhang, B.S., Peking University (2022-2026)
-        - Zhangxin Li, B.S., Peking University (2022-2026)
-        - Yi Zeng, B.S., Peking University (2022-2026)
-        - Haoyang Song, B.S., Peking University (2022-2026)
-        - Yingying Tang, B.S., Peking University (2023-2027)
-        - Yikai Yin, B.S., Peking University (2023-2027)
-        - Jiayu Yuan, B.S., Peking University (2023-2027)
-        - Bingyuan Zhong, B.S., Peking University (2023-2027)
-        - Yingying Tang, B.S., Peking University (2023-2027)
-        - Rongtao Tan, B.S., Peking University (2023-2027)
+        - Zhiyong Zhuo, Undergrad., Peking University (since 2025)
+        - Yingying Tang, Undergrad., Peking University (since 2025)
+        - Yikai Yin, Undergrad., Peking University (since 2025)
+        - Jiayu Yuan, Undergrad., Peking University (since 2025)
+        - Bingyuan Zhong, Undergrad., Peking University (since 2025)
+        - Rongtao Tan, Undergrad., Peking University (since 2025)
+        - Qinghang Liu, Undergrad., Peking University (since 2024)
+        - Ye Zhang, Undergrad., Peking University (since 2024)
+        - Zhangxin Li, Undergrad., Peking University (since 2024)
+        - Yi Zeng, Undergrad., Peking University (since 2024)
+        - Haoyang Song, Undergrad., Peking University (since 2024)
 
   - block: markdown
     content:
       title: Alumni
       text: |
         - Ting Zhang, R.A., (2022-2024)
-        - Xuru Yang, M.S., (2025), 深圳供电局有限公司
-        - Ji Ma, M.S., (2025), 云深处科技
-        - Yunze Hu, B.S., (2024), Peking University
-        - Jiaao Chen, B.S., (2024), University of California, Berkeley
-        - Silan Zhang, B.S., (2024), Peking University
-        - Haijie Dai, B.S., (2024), Peking University
-        - Qianli Lei, B.S., (2024), Peking University
-        - Xinyu Liu, B.S., (2024), Peking University
-        - Yun Huang, B.S., (2025), Peking University
-        - Yongcheng Ouyang, B.S., (2025), Peking University
-        - Zongru Yang, B.S., (2025), Peking University
-        - Chengwei Zhang, B.S., (2025), Peking University
+        - Xuru Yang, M.S., (class of 2025), 深圳供电局有限公司
+        - Ji Ma, M.S., (class of 2025), DEEP Robotics (云深处科技)
+        - Yunze Hu, B.S., (class of 2024), Peking University
+        - Jiaao Chen, B.S., (class of 2024), University of Hong Kong
+        - Silan Zhang, B.S., (class of 2024), Peking University
+        - Haijie Dai, B.S., (class of 2024), Peking University
+        - Qianli Lei, B.S., (class of 2024), Peking University
+        - Xinyu Liu, B.S., (class of 2024), University of Virginia
+        - Yun Huang, B.S., (class of 2025), Hunan University
+        - Yongcheng Ouyang, B.S., (class of 2025), Peking University
+        - Zongru Yang, B.S., (class of 2025), Peking University
+        - Chengwei Zhang, B.S., (class of 2025), Peking University
         - Yishu Wang, Visiting Student, (2024)
 ---
