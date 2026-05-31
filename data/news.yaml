@@ -11,6 +11,14 @@
     The Peking University–FirstMove Joint Laboratory is established, with Chang Liu serving as Director!!
   lead_image: "images/news/risk-aware-scalable.jpg"
 
+
+- title: ""
+  date: 2026-04-14
+  summary: |
+    Xuru Yang and Yuqiao Zhao's paper "[Risk-Aware and Scalable Hierarchical Motion Planning for Large-Scale Robotic Swarms via CVaR-Constrained MPC](https://ieeexplore.ieee.org/document/11313580)" received Honorable Mention for the T-ASE 2025 Best Application Award!!
+  lead_image: ""
+  
+
 - title: ""
   date: 2025-12-15
   summary: |
@@ -41,14 +49,21 @@
 
 
 - title: ""
-  date: 2025-06-30
+  date: 2025-06-01
+  summary: |
+    Kang Ding's paper "[SwarmDiff: Swarm Robotic Trajectory Planning in Cluttered Environments via Diffusion Transformer](https://openaccess.thecvf.com/content/CVPR2025W/MEIS/papers/Ding_SwarmDiff_Swarm_Robotic_Trajectory_Planning_in_Cluttered_Environments_via_Diffusion_CVPRW_2025_paper.pdf)" was nominated for the Best Paper Award at the RSS Workshop!!
+  lead_image: ""
+
+
+- title: ""
+  date: 2024-06-30
   summary: |
     Xuru Yang's paper: [Risk-Aware Non-Myopic Motion Planner for Large-Scale Robotic Swarm Using CVaR Constraints](https://arxiv.org/abs/2402.16690) has been accepted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024!!
   lead_image: "images/news/xuruyang2.png"
 
 
 - title: ""
-  date: 2025-06-30
+  date: 2024-06-30
   summary: |
     Yunze Hu's paper: [SwarmPRM: Probabilistic Roadmap Motion Planning for Large-Scale Swarm Robotic Systems](https://arxiv.org/abs/2402.16699) has been accepted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024!!
   lead_image: "images/news/yunzehu_2024.png"
