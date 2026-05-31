@@ -18,10 +18,5 @@ content_values:
 
 ---
 
-Welcome to the **Autonomous Robots Lab (ARL)** at Peking University, China.
-
-**ARL** investigates problems related to the planning and perception of autonomous systems and intelligent robots. The lab combines expertise from robotics, control theory, machine learning, optimization, and cognitive science to develop theories and methodologies for single and multi-robot systems to reliably and efficiently operate in uncertain and dynamically changing environments.
-
-Get in touch with our research team.
 
  
