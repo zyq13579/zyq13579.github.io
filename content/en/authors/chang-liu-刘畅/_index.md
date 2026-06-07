@@ -71,7 +71,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigator
+- Principal Investigators
 ---
 
 Chang Liu is an Assistant Professor at the School of Advanced Manufacturing and Robotics, Peking University, China. He is also the Chief Scientist of the Peking University–FirstMoveAI Joint Laboratory. He was a Postdoctoral Associate at the School of Mechanical and Aerospace Engineering, Cornell University, and has also worked at Nvidia Corporation and Ford Motor Company. His research is focused on Embodied AI and multi-robot systems. His work has received several awards, including the IEEE Transactions on Intelligent Vehicles Best Paper Award, IEEE Transactions on Automation Science and Engineering Best Application Award (Honorable Mention), Best Paper Award finalist at the RSS 2025 MRS Workshop, and ICCAS Best Student Paper Award. He has served as AC for RSS and AE for IROS.
