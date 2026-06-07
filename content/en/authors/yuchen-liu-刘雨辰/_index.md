@@ -43,7 +43,7 @@ social:
     icon_pack: ai
     link: ""
 
-order_weight: 40
+order_weight: 10
 ---
 
 Yuchen Liu received the Ph.D. degree in Aeronautics and Astronautics Science and Technology from Zhejiang University, China. He is currently a Postdoctoral Associate with the School of Advanced Manufacturing and Robotics, Peking University, China. His research interests include satellite attitude control, space robotics control, multi-robot collaboration, and reinforcement learning.
