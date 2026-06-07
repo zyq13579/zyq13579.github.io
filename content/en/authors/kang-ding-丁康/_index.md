@@ -40,7 +40,7 @@ social:
     icon_pack: fas
     link: "mailto:kangding@stu.pku.edu.cn"
 
-order_weight: 70
+order_weight: 50
 ---
 
 Kang Ding is a Master Student at College of Engineering, Peking University, China. He was a Undergratuate Student at Institue of Rail Transit, Tongji University. His research is focused on multi-agent motion planning, formation control and path planning for underwater robots.
