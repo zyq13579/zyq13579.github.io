@@ -21,7 +21,7 @@ heroBlock:
 
         <span style="color: #f28c28;">Open positions for Master's/Ph.D. students and interns. Click <a href="/recruiting/" style="color: #f28c28; font-weight: 600;">[Recruiting]</a> for details.</span>
 
-      实验室研究方向：**具身智能、多机器人协同、分布式状态估计**。实验室常年招收硕博士生以及实习生，详情请阅读右上角<a href="/recruiting/">[Recruiting]</a>页面。
+      实验室研究方向：**具身智能、多机器人协同**等。实验室常年招收硕博士生以及实习生，详情请阅读右上角<a href="/recruiting/">[Recruiting]</a>页面。
 
   
 
@@ -71,7 +71,7 @@ heroSlideBlock:
 # Recent works
 recentWorksBlock:
   - img: recent_works/home-rw1.jpg
-    desc: "[IEEE T-ASE’25]The motivation of this work is to address the significant challenges of computationally demanding and safety-critical motion planning for large-scale robotic swarms navigating cluttered environments, which can be applied to missions including search and rescue, warehouse automation, and environmental exploration. "
+    desc: "[IEEE T-ASE’25] The motivation of this work is to address the significant challenges of computationally demanding and safety-critical motion planning for large-scale robotic swarms navigating cluttered environments, which can be applied to missions including search and rescue, warehouse automation, and environmental exploration. "
     title: 
     # link: recent-works/risk-aware
     link: https://ieeexplore.ieee.org/document/11313580
