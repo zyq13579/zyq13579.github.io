@@ -10,7 +10,7 @@ user_groups:
 #   zhe-peng-彭哲
 
 # Role/position
-role: PhD Student
+role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
