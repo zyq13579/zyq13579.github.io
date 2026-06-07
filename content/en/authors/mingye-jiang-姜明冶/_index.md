@@ -42,7 +42,7 @@ social:
     icon_pack: ai
     link: https://scholar.google.com/citations?user=SOwGMzwAAAAJ&hl=zh-CN
 
-order_weight: 40
+order_weight: 70
 ---
 
 Mingye Jiang received his B.E. degree in Robotics Engineering from College of Engineering, Peking University. He is currently pursuing the M.S. degree at School of Mechanics and Engineering Science, Peking University. His research is focused on indoor object-goal navigation.
