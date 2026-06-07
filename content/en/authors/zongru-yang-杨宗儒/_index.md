@@ -36,7 +36,7 @@ social:
     icon_pack: fas
     link: "mailto:2100011185@stu.pku.edu.cn"
 
-order_weight: 10
+order_weight: 70
 ---
 
 Yang Zongru is a senior undergraduate student in the Department of Robotics Engineering at Peking University, Beijing, China. His current research interests include the control of self-built robots, swarm motion planning, and the development of intelligent control platforms for swarms.
