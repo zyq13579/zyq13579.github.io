@@ -39,7 +39,7 @@ social:
     icon_pack: fas
     link: "mailto:ustb_jiaochunxuan@163.com"
 
-order_weight: 80
+order_weight: 60
 ---
 
 Jiao ChunXuan, a female Communist Party member, born in October 2002, has been granted admission to pursue a master's degree at the School of Engineering, Peking University. She has received honors such as the Beijing Excellent Students Award and the National Scholarship. During undergraduate studies, participated in publishing 4 papers, applied for 4 national invention patents, and was granted 3 software copyrights.
