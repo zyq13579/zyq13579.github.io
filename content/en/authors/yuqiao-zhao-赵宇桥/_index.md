@@ -39,7 +39,7 @@ social:
     icon_pack: fas
     link: "mailto:yuqiaozhao@stu.pku.edu.cn"
 
-order_weight: 50
+order_weight: 30
 ---
 
 Yuqiao Zhao is a Ph.D. student at the School of Advanced Manufacturing and Robotics, Peking University, China. He received the B.S. degree in Electrical Engineering and Automation and the M.S. degree in Control Theory and Control Engineering from Nanjing University of Science and Technology in 2021 and 2024, respectively. His research interests include swarm robotics and multi-agent reinforcement learning.
