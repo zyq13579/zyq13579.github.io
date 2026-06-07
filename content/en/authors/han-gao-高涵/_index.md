@@ -73,7 +73,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 
-order_weight: 20
+order_weight: 25
 ---
 
 Han Gao received the B.Eng. degree in Robotics Engineering from Peking University, Beijing, China, in 2023. He is currently working toward the Ph.D. degree in robotics and intelligent systems with Peking University, Beijing, China. His current research interests include active sensing, multi-robot motion planning and optimal filtering.
