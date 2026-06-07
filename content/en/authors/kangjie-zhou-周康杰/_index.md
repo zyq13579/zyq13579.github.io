@@ -70,7 +70,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 
-order_weight: 10
+order_weight: 20
 ---
 
 Kangjie Zhou is a Ph.D. student of robotics and intelligent system at the Autonomous Robot Lab. His research interests include active sensing and motion planning of autonomous robot.
