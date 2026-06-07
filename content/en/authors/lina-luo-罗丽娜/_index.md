@@ -39,7 +39,7 @@ social:
     icon_pack: fas
     link: "mailto:luolina116@gmail.com"
 
-order_weight: 40
+order_weight: 60
 ---
 
 Lina Luo received her B.S. degree in Mechanical Design, Manufacturing and Automation from Harbin Institute of Technology in 2022. She is currently pursuing the M.S. degree in Advanced Manufacturing and Robotics at the College of Engineering, Peking University. Her research interests include instance image navigation and 3D Gaussian Splatting.
