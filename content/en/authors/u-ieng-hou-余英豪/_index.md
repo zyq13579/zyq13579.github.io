@@ -43,7 +43,7 @@ social:
     icon_pack: ai
     link: https://scholar.google.com/citations?user=C0Yq-o4AAAAJ&hl=zh-TW
 
-order_weight: 50
+order_weight: 60
 ---
 
 U Ieng Hou received his B.E. degree in Industrial Engineering from Beijing Institute of Technology. He is currently pursuing the M.S. degree at College of Engineering, Peking University. His research focuses on motion planning for single-agent robotic systems, including quadrupeds and unmanned aerial vehicles, with applications in target tracking. He is also interested in embodied AI and Vision-Language-Action (VLA) models that bridge high-level reasoning and low-level control in physical agents.
