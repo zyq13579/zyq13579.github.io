@@ -36,7 +36,11 @@
 
     {{if $query | and (gt (len $block.content.user_groups) 1) }}
       <div class="col-md-12">
-        <h2 class="mb-4">{{ . | markdownify }}</h2>
+        {{ $group_title := . }}
+        {{ if eq . "Graduate Students" }}
+          {{ $group_title = "Current Members" }}
+        {{ end }}
+        <h2 class="mb-4">{{ $group_title | markdownify }}</h2>
       </div>
     {{end}}
 
