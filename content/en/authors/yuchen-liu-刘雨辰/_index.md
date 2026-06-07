@@ -3,7 +3,7 @@
 title: Yuchen Liu (刘雨辰)
 
 user_groups:
-  - Postdoctoral Associates
+  - Graduate Students
 
 # Username (this should match the folder name)
 # authors:
