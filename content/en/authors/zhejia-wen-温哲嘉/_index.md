@@ -37,7 +37,7 @@ education:
 # Social/Academic Networking
 # social:
 
-order_weight: 40
+order_weight: 60
 ---
 
 Zhejia Wen received the B.S. degree in Software Engineering from Xidian University in 2024. Wen is currently pursuing the M.S. degree in Advanced Manufacturing and Robotics at College of Engineering, Peking University. Wen's research interests include vision-language navigation, multi-robot systems, multi-modal perception, and intelligent robotic decision-making.
