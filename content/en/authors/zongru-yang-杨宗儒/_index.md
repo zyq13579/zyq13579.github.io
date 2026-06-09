@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Zongru Yang（杨宗儒）
+title: Zongru Yang (杨宗儒)
 
 user_groups:
   - Graduate Students
 
 # Username (this should match the folder name)
 # authors:
-#
+#   zongru-yang-杨宗儒
 
 # Role/position
-role: Graduate Student
+role: M.S. Student
 
 # Organizations/Affiliations
 organizations:
@@ -21,22 +21,25 @@ organizations:
 # bio:
 
 interests:
-  - Swarm Motion planning
-  - Autonomous Robot Control
+  - Object navigation
+  - Swarm Motion Planning
 
 education:
   courses:
-    - course: BEng in Robotics Engineering
+    - course: M.S. in Advanced Manufacturing and Robotics
       institution: Peking University
-      year: 2025(expected)
+      year: 2028(Expected)
+    - course: B.S. in Mechatronics Engineering
+      institution: Peking University
+      year: 2025
 
 # Social/Academic Networking
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:2100011185@stu.pku.edu.cn"
+    link: "yzrrrrr@stu.pku.edu.cn"
 
 order_weight: 70
 ---
 
-Yang Zongru is a senior undergraduate student in the Department of Robotics Engineering at Peking University, Beijing, China. His current research interests include the control of self-built robots, swarm motion planning, and the development of intelligent control platforms for swarms.
+Zongru Yang received her B.E. degree in Robotics Engineering from College of Engineering, Peking University. Hee is currently pursuing the M.S. degree at College of Engineering, Peking University. His research is focused on object navigation.
