@@ -1,4 +1,34 @@
 - title: ""
+  date: 2026-09-01
+  summary: |
+    Yixue Zhang's paper "[RoboGene: Boosting VLA Pre-training via Diversity-Driven Agentic Framework for Real-World Task Generation](https://arxiv.org/abs/2602.16444)" has been accepted to Conference on Robot Learning (CoRL), 2026!!
+  lead_image: ""
+
+- title: ""
+  date: 2026-08-31
+  summary: |
+    Kang Ding and Chunxuan Jiao's paper "[CHORD: Closed-Loop Hierarchical Motion Planning for Multi-Robot Systems via Diffusion Transformers and Density-Informed DMPC](https://ieeexplore.ieee.org/abstract/document/11672812/)" has been accepted to IEEE Transactions on Automation Science and Engineering (T-ASE)!!
+  lead_image: ""
+
+- title: ""
+  date: 2026-08-17
+  summary: |
+    Kangjie Zhou's paper "[CoIN: Interactive Navigation with Counterfactual Reasoning via Vision-Language Models](https://doi.org/10.1109/TASE.2026.3724341)" has been accepted to IEEE Transactions on Automation Science and Engineering (T-ASE)!!
+  lead_image: ""
+
+- title: ""
+  date: 2026-08-12
+  summary: |
+    Han Gao's paper "[BELTA: Moving Target Tracking in Unknown Environments With Belief-Space Visibility Optimization](https://ieeexplore.ieee.org/document/11677211)" has been accepted to IEEE Transactions on Industrial Informatics (TII)!!
+  lead_image: ""
+
+- title: ""
+  date: 2026-07-12
+  summary: |
+    Yuqiao Zhao's paper "[Multi-agent reinforcement learning with beta distribution for thrust sampling in stochastic orbital pursuit-evasion games](https://www.sciencedirect.com/science/article/pii/S092523122601893X)" has been accepted to Neurocomputing!!
+  lead_image: ""
+
+- title: ""
   date: 2026-07-01
   summary: |
     Kang Ding received his M.S. degree. Congratulations!!

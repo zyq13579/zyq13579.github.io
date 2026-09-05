@@ -1,3 +1,38 @@
+- authors_text: "Han Gao, Ieng Hou U, Zhaoyang Li, Kangjie Zhou, Kang Ding, Yao Su, Hangxin Liu, Shengbo Eben Li, Junzhi Yu, Chang Liu"
+  title: "BELTA: Moving Target Tracking in Unknown Environments With Belief-Space Visibility Optimization"
+  pub_info: "IEEE Transactions on Industrial Informatics (TII)"
+  year: 2026
+  pub_type: "Journal article"
+  url_external: "https://ieeexplore.ieee.org/document/11677211"
+
+- authors_text: "Kang Ding, Chunxuan Jiao, Yunze Hu, Zhejia Wen, Kangjie Zhou, Han Gao, Pengying Wu, Tao Sun, Yao Mu, Chang Liu"
+  title: "CHORD: Closed-Loop Hierarchical Motion Planning for Multi-Robot Systems via Diffusion Transformers and Density-Informed DMPC"
+  pub_info: "IEEE Transactions on Automation Science and Engineering (T-ASE)"
+  year: 2026
+  pub_type: "Journal article"
+  url_external: "https://doi.org/10.1109/TASE.2026.3728795"
+
+- authors_text: "Kangjie Zhou, Zhejia Wen, Zhiyong Zhuo, Zike Yan, Pengying Wu, U Ieng Hou, Shengbo Eben Li, Han Gao, Kang Ding, Wenhan Cao, Wei Pan, Chang Liu"
+  title: "CoIN: Interactive Navigation with Counterfactual Reasoning via Vision-Language Models"
+  pub_info: "IEEE Transactions on Automation Science and Engineering (T-ASE)"
+  year: 2026
+  pub_type: "Journal article"
+  url_external: "https://doi.org/10.1109/TASE.2026.3724341"
+
+- authors_text: "Yixue Zhang, Kun Wu, Zhi Gao, Zhen Zhao, Pei Ren, Zhiyuan Xu, Fei Liao, Xinhua Wang, Shichao Fan, Di Wu, Qiuxuan Feng, Meng Li, Zhengping Che, Chang Liu, Jian Tang"
+  title: "RoboGene: Boosting VLA Pre-training via Diversity-Driven Agentic Framework for Real-World Task Generation"
+  pub_info: "Conference on Robot Learning (CoRL)"
+  year: 2026
+  pub_type: "Conference paper"
+  url_external: "https://arxiv.org/abs/2602.16444"
+
+- authors_text: "Yuqiao Zhao, Jingliang Duan, Shengbo Eben Li, Chang Liu"
+  title: "Multi-agent reinforcement learning with beta distribution for thrust sampling in stochastic orbital pursuit-evasion games"
+  pub_info: "Neurocomputing"
+  year: 2026
+  pub_type: "Journal article"
+  url_external: "https://doi.org/10.1016/j.neucom.2026.134495"
+
 - authors_text: "Wenhan Cao, Tianyi Zhang, Zeju Sun, Chang Liu, Stephen S.-T. Yau, Shengbo Eben Li"
   title: "Nonlinear Bayesian Filtering with Natural Gradient Gaussian Approximation"
   pub_info: "IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)"
